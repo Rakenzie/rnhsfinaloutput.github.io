@@ -145,7 +145,7 @@ body {
   }
 }
 #preloader{
-  background: #fff url(html/loader.gif) no-repeat center center;
+  background: #fff url(loader.gif) no-repeat center center;
   background-size: 20%;
   height: 100vh;
   width: 100%;
